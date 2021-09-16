@@ -1,0 +1,15 @@
+{
+  "domain": "bin",
+  "name": "bin_collection",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/bin",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@ocarontigerblood"
+  ],
+  "iot_class": "cloud_polling"
+}
