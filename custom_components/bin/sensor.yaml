@@ -1,6 +1,6 @@
  - platform: command_line
    name: "Bin collections"
-   command: "python3 /config/python-scripts/bin_collection.py"
+   command: "python3 /config/bin/bin_collection.py"
    scan_interval: 86400
    command_timeout: 60 #needed as the website is slow to respond and will often timeout if left at default
  - platform: template
